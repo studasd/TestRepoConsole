@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TestRepoLib;
+//using TestRepoLib;
 
 namespace TestRepoConsole
 {
@@ -13,8 +13,8 @@ namespace TestRepoConsole
 		{
 			var MyApp = "Моя прила";
 
-			var p = new NewClass();
-			var ttr = p.newClass;
+			//var p = new NewClass();
+			//var ttr = p.newClass;
 		}
 	}
 }
