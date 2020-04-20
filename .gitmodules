@@ -1,3 +1,6 @@
 [submodule "TestRepoConsole/TestRepoLib"]
 	path = TestRepoConsole/TestRepoLib
 	url = https://github.com/studasd/TestRepoLib
+[submodule "TestRepoLib"]
+	path = TestRepoLib
+	url = https://github.com/studasd/TestRepoLib
