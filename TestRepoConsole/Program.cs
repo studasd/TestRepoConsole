@@ -14,7 +14,7 @@ namespace TestRepoConsole
 			var MyApp = "Моя прила";
 
 			var p = new NewClass();
-			var ttr = p.newClass;
+			var ttr = p.newClass4;
 		}
 	}
 }
